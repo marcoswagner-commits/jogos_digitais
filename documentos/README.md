@@ -6,6 +6,8 @@
 
 - [Plano de Ensino](https://github.com/marcoswagner-commits/jogos_digitais/files/8312251/plano_ensino_CJD_2021_2.pdf)
 
+[aula_1_2_Estudos_criticos_jogos.pdf](https://github.com/marcoswagner-commits/jogos_digitais/files/8312256/aula_1_2_Estudos_criticos_jogos.pdf)
+
 - [Conteúdo do Curso]()
 
 ### 1.1 Conteúdos
