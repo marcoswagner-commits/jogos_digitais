@@ -1,36 +1,59 @@
-# Aula de Desenvolvimento de Aplicações WEB 
-# Roteiro – Desenvolvimento de Aplicações para WEB – 2020/2 (2021)
+# Aula de Criação de Jogos Digitais - Roteiro - 2021/2 (2022)
+## Professores: Ana Carolina e Marcos Wagner
 
 ## 1 - Apresentação da disciplina: Plano de Ensino – Conteúdos – Metodologia – Avaliações
 	* Vide Plano de Ensino; Planejamento da Disciplina; documento Conteúdos
 
-- [Conteúdo do Curso](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/tree/documentos/documentos/Conteúdo_Aula_DSW_Módulo_I.pdf)
+- [Conteúdo do Curso](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/Conteúdo_Aula_DSW_Módulo_I.pdf)
 
 ### 1.1 Conteúdos
 
-1.1.1. API 
+1.1 Introdução ao Desenvolvimento de Jogos
 
-1.1.2. REST 
+1.2 Roteiro de Jogos
 
-1.1.3. Protocolo HTTP
+1.3 Game Engine Unity3D
 
-1.1.4. Ecossistema Spring
+1.4 Projeto de Jogos
 
-1.1.5. O padrão MVC
+1.5 Instalação e Ambiente
 
-1.1.6. ORM
+1.6 Funções de um Projetista de Jogos
 
-1.1.7. Camadas 
+1.7 Programação
 
-1.1.8. Segurança
+1.8 Documento do Projeto
 
-1.1.9. Consumo de APIs
+1.9 Feriado Nacional - Tiradentes
 
-1.1.10. Frontend
+1.10 Documento do Projeto
 
-1.1.11. React
+1.11 Programação
 
-1.1.12. Aplicação e repositórios na nuvem
+1.12 Átomos do Jogo
+
+1.13 Movimentos
+
+1.14 Percepções e Emoções do Jogo
+
+1.15 Movimentos
+
+1.16 Câmera
+
+1.17 NPCs
+
+1.18 Interação
+
+1.19 Interface com o usuário
+
+1.20 Gerenciamento de Inventário
+
+1.21 Documento do Jogo
+
+1.22 Animação
+
+1.23 NavMesh, Audios e Build
+
 
 ### 1.2 Metodologia
 
@@ -40,7 +63,7 @@
 
 ### 1.3 Avaliações
 
-1.3.1. Um único projeto (incluindo modelo conceitual; backend fase 1 e 2; frontend e integração)
+1.3.1. Um único projeto (incluindo GDD - Roteiro de Jogo - Implementação)
 
 1.3.2. Dois projetos de práticas (um sobre o Backend e outro sobre o FrontEnd).
 
