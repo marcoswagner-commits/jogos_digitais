@@ -6,9 +6,7 @@
 
 - [Plano de Ensino](https://github.com/marcoswagner-commits/jogos_digitais/files/8312251/plano_ensino_CJD_2021_2.pdf)
 
-[aula_1_2_Estudos_criticos_jogos.pdf](https://github.com/marcoswagner-commits/jogos_digitais/files/8312256/aula_1_2_Estudos_criticos_jogos.pdf)
-
-- [Conteúdo do Curso]()
+- [Conteúdo do Curso](https://github.com/marcoswagner-commits/jogos_digitais/files/8312256/aula_1_2_Estudos_criticos_jogos.pdf)
 
 ### 1.1 Conteúdos
 
@@ -69,7 +67,6 @@
 
 1.3.1. Um único projeto (incluindo GDD - Roteiro de Jogo - Implementação)
 
-1.3.2. Dois projetos de práticas (um sobre o Backend e outro sobre o FrontEnd).
 
 ## 2  - Ferramentas e recursos
 
@@ -92,8 +89,8 @@ Itch.io - https://itch.io/developers
 ## 3 - Roteiro de Jogos:
 Descrição: Síntese...
 
-## 4 - Criação de Jogos:
-Descrição: Síntese...
+## 4 - Criação de Jogos (Unity3D):
+Descrição: Unity3D é uma engine que permite a construção de ambientes virtuais 2 e 3D, e, consequentemente possibilita a construção de jogos digitais (games), sejam pequenos e simples, ou, até mesmo grandes e complexos. Serão apresentados componentes básicos e essenciais desta ferramenta, comumente usados na maioria dos projetos. 
 
 
 ## 4 – Síntese do Curso
@@ -110,22 +107,15 @@ Passos:
 
 6. Construir o jogo digital (trabalho em grupo de dois componentes)
 
-7. Implementar o Backend (Spring Starter Project - Seguir check-list próprio)
-
-8. Instalar ferramentas (frontend)
-
-9. Implementar o Frontend (React - Seguir check-list próprio)
-
-
-
-
 ### Trabalhos
-- [Trabalho1 - Apresentação da Proposta](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/blob/documentos/documentos/Trabalho1%20-%20DAW.pdf)
-- [Trabalho2 - Apresentação do Projeto Final](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/blob/67b0b65e99e64c0752acd8a4a4f000cb3e244fb6/documentos/Trabalho2%20-%20DAW.pdf)
+- [Trabalho1 - Apresentação da Proposta]()
+- [Trabalho2 - Apresentação do Projeto Final]()
 
 ### Aulas
 - Roteiro específico da Aula Inaugural  - 22/03/2022 * (Apresentação do Planejamento - Plano de Ensino - Metodologias) *
-- [Roteiro específico da Aula02 - 24/03/2022](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/tree/documentos/documentos/aula02.md)
+- Roteiro específico da Aula Inaugural  - 24/03/2022 * (Introdução ao Desenvolvimento de Jogos) *
+- [Roteiro específico da Aula01 - 29/03/2022](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/tree/documentos/documentos/aula02.md)
+- [Roteiro específico da Aula02 - 31/03/2022](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/tree/documentos/documentos/aula02.md)
 - [Roteiro específico da Aula03 - 29/03/2022](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/tree/documentos/documentos/aula03.md)
 - [Roteiro específico da Aula04 - 31/03/2022](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/tree/documentos/documentos/aula04.md)
 - Roteiro específico da Aula de Apresentação do Modelo Conceitual  - 03/06/2021 * (Apresentação do Backend - fase 1) *
@@ -156,7 +146,10 @@ Passos:
 - [Roteiro específico da Aula24 - 09/09/2021](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/tree/documentos/documentos/aula24.md)
 - [Roteiro específico da Aula25 - 14/09/2021](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/tree/documentos/documentos/aula25.md)
 - [Roteiro específico da Aula26 - 16/09/2021](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/tree/documentos/documentos/aula26.md)
-- Roteiro específico da Aula de Apresentação de Trabalho  - 21/09/2021 * (Avaliação do FrontEnd com Integração) *
-- Roteiro específico da Aula de Projeto de Prática - 23/09/2021 * (Projeto de Prática em Desenvolvimento de Aplicações WEB) *
+
+- Roteiro específico da Aula de Apresentação Parcial  - 19/05/2022 * (Avaliação do Roteiro) 
+- 
+- Roteiro específico da Aula de Apresentação Final - 05 e 07/07/2022 * (Avaliação do Roteiro e do Jogo) 
+
 
 
