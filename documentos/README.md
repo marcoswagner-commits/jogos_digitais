@@ -119,7 +119,7 @@ Passos:
 - [Roteiro específico da Aula03 - 05/04/2022]()
 - [Roteiro específico da Aula04 - 07/04/2022 - Instalação e Ambiente](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula04.md)
 - [Roteiro específico da Aula05 - 12/04/2022]()
-- [Roteiro específico da Aula06 - 14/04/2022](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula06.md)
+- [Roteiro específico da Aula06 - 14/04/2022 - Programação](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula06.md)
 - [Roteiro específico da Aula07 - 15/06/2021]()
 - [Roteiro específico da Aula08 - 17/06/2021](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/tree/documentos/documentos/aula08.md)
 - [Roteiro específico da Aula09 - 22/06/2021](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/tree/documentos/documentos/aula09.md)
