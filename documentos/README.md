@@ -76,9 +76,9 @@
 
 ### Contas:
 
-Github – http://www.github.com 
+- Github – http://www.github.com 
 
-Itch.io - https://itch.io/developers
+- Itch.io - https://itch.io/developers
 
 ## 3 – Síntese do Curso
 
@@ -114,8 +114,8 @@ Passos:
 ### Aulas
 - Roteiro específico da Aula Inaugural  - 22/03/2022 * (Apresentação do Planejamento - Plano de Ensino - Metodologias) *
 - Roteiro específico da Aula Inaugural  - 24/03/2022 * (Introdução ao Desenvolvimento de Jogos) *
-- [Roteiro específico da Aula01 - 29/03/2022](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/tree/documentos/documentos/aula02.md)
-- [Roteiro específico da Aula02 - 31/03/2022](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/tree/documentos/documentos/aula02.md)
+- [Roteiro específico da Aula01 - 29/03/2022 - Roteiro de Jogos]()
+- [Roteiro específico da Aula02 - 31/03/2022 - Game Engine Unity3D](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula02.md)
 - [Roteiro específico da Aula03 - 29/03/2022](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/tree/documentos/documentos/aula03.md)
 - [Roteiro específico da Aula04 - 31/03/2022](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/tree/documentos/documentos/aula04.md)
 - Roteiro específico da Aula de Apresentação do Modelo Conceitual  - 03/06/2021 * (Apresentação do Backend - fase 1) *
