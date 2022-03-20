@@ -5,7 +5,7 @@
 
 ## Engine Gráfica Unity3D
 
-- [Conteúdo do Curso - Material sugerido](https://profsalu.files.wordpress.com/2018/08/2-unity-3d-apresentac3a7c3a3o.pdf)
+- [Conteúdo do Curso - Material sugerido](https://docs.unity3d.com/Manual/Materials.html)
 
 
 ### Passo 2: Programação
