@@ -117,7 +117,7 @@ Passos:
 - [Roteiro específico da Aula01 - 29/03/2022 - Roteiro de Jogos]()
 - [Roteiro específico da Aula02 - 31/03/2022 - Game Engine Unity3D](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula02.md)
 - [Roteiro específico da Aula03 - 05/04/2022]()
-- [Roteiro específico da Aula04 - 07/04/2022](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula04.md)
+- [Roteiro específico da Aula04 - 07/04/2022 - Instalação e Ambiente](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula04.md)
 - [Roteiro específico da Aula05 - 12/04/2022]()
 - [Roteiro específico da Aula06 - 14/04/2022](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula06.md)
 - [Roteiro específico da Aula07 - 15/06/2021]()
