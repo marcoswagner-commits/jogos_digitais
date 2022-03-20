@@ -1,6 +1,6 @@
-## Aula 06 - Criação de Jogos Digitais
+## Aula 06 e 09 - Criação de Jogos Digitais
 
-> Aula 14/04/2022 
+> Aula 14/04/2022 e 28/04/2022 
 > Atividades da aula - Programação
 
 ## Engine Gráfica Unity3D
