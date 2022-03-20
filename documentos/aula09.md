@@ -1,216 +1,65 @@
-# Aula 09 - Desenvolvimento de Aplicações WEB
+## Aula 06 e 09 - Criação de Jogos Digitais
 
-> Aula 22/06/2021
-> 
->  *Estudo de caso: Gestão de Obras*
+> Aula 14/04/2022 e 28/04/2022 
+> Atividades da aula - Programação
 
+## Engine Gráfica Unity3D
 
-## Atividades da aula - roteiro
-
-## Implementação do Modelo Conceitual - Regras de Negócio e Tratamento de Erros
-
-### Passo 1: Ampliar as regras de negócio relacionadas a classe (entidade) proprietários
-- [x]  Incluir no repositório ProprietarioDAO outros tipos de acesso a dados
-  - Busca de registros por nome
-  - Busca de registros por cpf
-  - Busca de registros por e-mail
-- [x]  Ajustar os serviços GestaoProprietario para não permitir inclusão de dados incoerentes (dataIntegrity)
-  - Não permissão de cadastro de cpfs iguais
-  - Não permissão de cadastro de e-mails iguais
-- Vide Códigos 1 e 2  (Repositório e Serviço)
-
-### Passo 2: Ampliar e melhorar o tratamento de mensagens de erros
-- [x]  Criar uma classe em seviços/exceptions para regras de negócio - BusinessException
-- [x]  Apliar a classe de ExceptionHandler
-- [x]  Criar um método dataIntegrity (Integridade de dados) para não permitir repetição de cpfs e e-mails
-- [x]  Verificar os retornos de erros
-- [x]  Implementar os endpoints de busca por nome e por cpf
-- [x]  Vide Códigos 3, 4 e 5 (BusinessException, ExceptionHandler e Controller)
-
-[![Aulas no Youtube](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/blob/cb3e2ea9547f9ddc831277f07919c3e78451eb92/yt-icon.png)](https://www.youtube.com/channel/UCfO-aJxKLqau0TnL0AfNAvA)
-####  Os vídeos abaixo mostram a execução destes dois primeiros passos
-
-🥇:[![material complementar aula09](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/blob/ae21f550ddb70c1e401baeaf543065f9a8b80283/documentos/Capa_Aula09.png)](https://www.youtube.com/watch?v=CncYHx2x-xI)
--
-🥈:[![material complementar aula09](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/blob/ae21f550ddb70c1e401baeaf543065f9a8b80283/documentos/Capa_Aula09.png)](https://www.youtube.com/watch?v=qJm_-rD4gb0)
--
-🥉:[![material complementar aula09](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/blob/ae21f550ddb70c1e401baeaf543065f9a8b80283/documentos/Capa_Aula09.png)](https://www.youtube.com/watch?v=XWIO-29pOJY)
+- [Conteúdo do Curso - Material sugerido](https://docs.unity3d.com/Manual/Materials.html)
 
 
+### Passo 2: Programação
+- [x] Scripts
+ - Criar uma pasta de Scripts
+ - Criar um script
+ - Vincular script ao componente
+  - Abrir script no Visual Studio Code
+  - Analisar o código
+   - name_spaces; classes : MonoBehaviour; funções (Start e Update) 
+- [x] Variáveis
+- [x] Funções
+- [x] Controle (if-else - loops)
 
+🎬
+[![material complementar](https://github.com/marcoswagner-commits/projetos_cg/blob/aa3f6a6ace359cfac3b5b9f9758fb9c642fe950b/Capa_Aula_Unity3D.png)](https://www.youtube.com/watch?v=jGbjqzE5cH8)
 
+#### Script
+ ```
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
 
-:shipit: Código 1
-```
-public interface ProprietarioDAO extends JpaRepository<Proprietario, Integer> {
-	
-	Optional<Proprietario> findByNome (String nome);
-	Optional<Proprietario> findByCpf(String cpf);
-	Optional<Proprietario> findByEmail(String email);
+public class Jogador : MonoBehaviour
+public class jogador : MonoBehaviour
+{
+    int varA = 10;
+    int varB = 15;
+    // Start is called before the first frame update
+    void Start()
+    {
+        UnityEngine.Debug.Log(Soma(varA,varB));
 
-}
-
-```
-
-:shipit: Código 2
-```
-@AllArgsConstructor
-@Service
-public class GestaoProprietario {
-	
-	private ProprietarioDAO dao;
-	
-	
-	public List<Proprietario> findAll() {
-		return dao.findAll();
-		
-	}
-	
-	
-	public Optional<Proprietario> findById(Integer id) {
-			return dao.findById(id);
-	}
-	
-	public Optional<Proprietario> findByName(String nome) {
-		return dao.findByNome(nome);
+    if (Soma(varA, varB) > 10) UnityEngine.Debug.Log("Número maior que 10");
+    else UnityEngine.Debug.Log("Número menor ou igual a 10");
+    for (int i=0; i<10; i++)
+        {
+          UnityEngine.Debug.Log(i);
+        }
+        
     }
-	
-	public Optional<Proprietario> findByCPF(String cpf) {
-		return dao.findByCpf(cpf);
+
+    int Soma(int a, int b) 
+    {
+      return (a + b);
     }
-	
-	public Optional<Proprietario> findByEmail(String email) {
-		return dao.findByEmail(email);
+
+    // Update is called once per frame
+    void Update()
+    {
+        
+    }
 }
-	
-	@Transactional
-	public Proprietario save(Proprietario obj) {
-		boolean cpfExists = dao.findByCpf(obj.getCpf())
-				.stream()
-				.anyMatch(objResult -> !objResult.equals(obj));
-		
-		if (cpfExists) {
-			throw new BusinessException("CPF já existente!");
-		}
-		
-		boolean emailExists = dao.findByEmail(obj.getEmail())
-				.stream()
-				.anyMatch(objResult -> !objResult.equals(obj));
-		
-		if (emailExists) {
-			throw new BusinessException("E-mail já existente!");
-		}
-		
-			return dao.save(obj);
-	}
-	
-	@Transactional
-	public void deleteById(Integer id) {
-			dao.deleteById(id);
-	}
-	
-	public boolean existById(Integer id) {
-		return dao.existsById(id);
-	}
-	
-	
-}
-
-```
-
-:shipit: Código 3
-```
-public class BusinessException extends RuntimeException {
-	private static final long serialVersionUID = 1L;
-	
-	public BusinessException(String msg) {
-		super(msg);
-	}
-
-}
+ ```
 
 
-```
-
-:shipit: Código 4
-```
-@ControllerAdvice
-public class ExceptionHandler extends ResponseEntityExceptionHandler {
 	
-	@Autowired
-	private MessageSource msg;
-	
-	@Override
-	protected ResponseEntity<Object> handleMethodArgumentNotValid(
-			MethodArgumentNotValidException ex, HttpHeaders headers, HttpStatus status, WebRequest request) {
-
-		List<StandardError.Fields> erro_campos = new ArrayList<>();
-		
-		for (ObjectError error : ex.getBindingResult().getAllErrors()) {
-			String nome = ((FieldError) error).getField();
-			String mensagem = msg.getMessage(error, LocaleContextHolder.getLocale());
-			
-			erro_campos.add(new StandardError.Fields(nome, mensagem));
-		}
-		
-		
-		StandardError erro = new StandardError(status.value(),LocalDateTime.now(),"Verifique o preenchimento dos campos!",erro_campos);
-		
-		return handleExceptionInternal(ex, erro, headers, status, request);
-	}
-	
-	@org.springframework.web.bind.annotation.ExceptionHandler(BusinessException.class)
-	public ResponseEntity<StandardError> dataIntegrity (BusinessException ex) {
-		StandardError erro = new StandardError(HttpStatus.BAD_REQUEST.value(),
-			LocalDateTime.now(),ex.getMessage(),null);
-		
-		return ResponseEntity.status(HttpStatus.BAD_REQUEST).body(erro);
-	}
-	
-		
-	
-
-}
-
-```
-
-:shipit: Código 5
-```
-@RestController
-@RequestMapping("/gto/proprietarios")
-public class ProprietarioController {
-	
-	@Autowired
-	private GestaoProprietario service;
-	
-	@GetMapping
-	public List<Proprietario> buscarTodos() {
-		return service.findAll();
-		
-	}
-	
-	
-	@GetMapping("/{id}")
-	public ResponseEntity<Proprietario> buscarUm(@PathVariable Integer id) {
-		return service.findById(id)
-				.map(ResponseEntity::ok)
-				.orElse(ResponseEntity.notFound().build());
-	}
-	
-	@GetMapping("/nome/{nome}")
-	public ResponseEntity<Proprietario> buscarNome(@PathVariable String nome) {
-		return service.findByName(nome)
-				.map(ResponseEntity::ok)
-				.orElse(ResponseEntity.notFound().build());
-	}
-	
-	@GetMapping("/cpf/{cpf}")
-	public ResponseEntity<Proprietario> buscarCpf(@PathVariable String cpf) {
-		return service.findByCPF(cpf)
-				.map(ResponseEntity::ok)
-				.orElse(ResponseEntity.notFound().build());
-	}
-	
-
-```
-### Passo 3: Atualizar o github com os códigos atuais
