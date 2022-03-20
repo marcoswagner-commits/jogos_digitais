@@ -1,4 +1,4 @@
-## Aula 02/04 - Criação de Jogos Digitais
+## Aula 02 e 04 - Criação de Jogos Digitais
 
 > Aula 31/03/2022 e 07/04/2002 
 > Atividades da aula - Game Engine Unity3D - Introdução
