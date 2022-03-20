@@ -1,12 +1,12 @@
-# Aula 06 - Desenvolvimento de Aplicações WEB
+## Aula 06 - Criação de Jogos Digitais
 
-> Aula 10/06/2021
-> 
->  *Estudo de caso: Gestão de Obras* 
+> Aula 14/04/2022 
+> Atividades da aula - Programação
 
-## Atividades da aula - roteiro
+## Engine Gráfica Unity3D
 
-## :+1: Implementação do Modelo Conceitual - Criação do Repositório e do Controlador
+- [Conteúdo do Curso - Material sugerido](https://profsalu.files.wordpress.com/2018/08/2-unity-3d-apresentac3a7c3a3o.pdf)
+
 
 ### Passo 2: Programação
 - [x] Scripts
