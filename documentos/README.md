@@ -127,24 +127,19 @@ Passos:
 - [Roteiro específico da Aula11 - 05/05/2022 - Movimentos](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula11.md)
 - [Roteiro específico da Aula12 - 10/05/2022 - Percepções e Emoções do Jogo]()
 - [Roteiro específico da Aula13 - 12/05/2022 - Movimentos](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula13.md)
-- [Roteiro específico da Aula14 - 08/07/2021- Percepções e Emoções do Jogo]()
-- [Roteiro específico da Aula15 - 03/08/2021](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/tree/documentos/documentos/aula15.md)
-- [Roteiro específico da Aula16 - 05/08/2021](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/tree/documentos/documentos/aula16.md)
-- [Roteiro específico da Aula17 - 10/08/2021](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/tree/documentos/documentos/aula17.md)
-- [Roteiro específico da Aula18 - 12/08/2021](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/tree/documentos/documentos/aula18.md)
-- [Roteiro específico da Aula19 - 17/08/2021](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/tree/documentos/documentos/aula19.md)
-- [Roteiro específico da Aula20 - 19/08/2021](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/tree/documentos/documentos/aula20.md)
-- [Roteiro específico da Aula21 - 24/08/2021](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/tree/documentos/documentos/aula21.md)
-- Roteiro específico da Aula de Apresentação de Trabalho  - 26/08/2021 * (Avaliação do Backend - fase 2) *
-- //////////////////////////// INÍCIO DO FRONT-END ///////////////////////////////////////////////////////
-- [Roteiro específico da Aula22 - 31/08/2021](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/tree/documentos/documentos/aula22.md)
-- [Roteiro específico da Aula23 - 02/09/2021](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/tree/documentos/documentos/aula23.md)
-- [Roteiro específico da Aula24 - 09/09/2021](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/tree/documentos/documentos/aula24.md)
-- [Roteiro específico da Aula25 - 14/09/2021](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/tree/documentos/documentos/aula25.md)
-- [Roteiro específico da Aula26 - 16/09/2021](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/tree/documentos/documentos/aula26.md)
+- [Roteiro específico da Aula14 - 17/05/2022 - Percepções e Emoções do Jogo]()
 
-- Roteiro específico da Aula de Apresentação Parcial  - 19/05/2022 * (Avaliação do Roteiro) 
-- 
+- Roteiro específico da Aula de Apresentação de Trabalho  - 19/05/2022 * (Avaliação do Roteiro) *
+
+- [Roteiro específico da Aula15 - 02/06/2022 - Câmera](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula15.md)
+- [Roteiro específico da Aula16 - 07/06/2022 - NPCs]()
+- [Roteiro específico da Aula17 - 09/06/2022 - Interação](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula17.md)
+- [Roteiro específico da Aula18 - 14/06/2022 - Interface com o usuário]()
+- [Roteiro específico da Aula19 - 21/06/2022 - Gerenciamento de Invetário]()
+- [Roteiro específico da Aula20 - 23/06/2022 - Animação](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula20.md)
+- [Roteiro específico da Aula21 - 28/06/2022 - Documento do jogo]()
+- [Roteiro específico da Aula22 - 30/06/2022 - NavMesh, Audios e Build](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula22.md)
+
 - Roteiro específico da Aula de Apresentação Final - 05 e 07/07/2022 * (Avaliação do Roteiro e do Jogo) 
 
 
