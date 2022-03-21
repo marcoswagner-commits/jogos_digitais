@@ -92,7 +92,7 @@ Descrição: Ao iniciar o desenvolvimento de um jogo é imprescindível fazer um
 Descrição: Unity3D é uma engine que permite a construção de ambientes virtuais 2 e 3D, e, consequentemente possibilita a construção de jogos digitais (games), sejam pequenos e simples, ou, até mesmo grandes e complexos. Serão apresentados componentes básicos e essenciais desta ferramenta, comumente usados na maioria dos projetos. 
 
 
-## 4 – Síntese do Curso
+## 5 – Síntese do Curso
 Passos:
 1. Instalar ferramentas e criar contas (Unity3D - GitHub - Itch.io)
 
@@ -105,6 +105,9 @@ Passos:
 5. Aulas práticas - Engine Unity3D
 
 6. Construir o jogo digital (trabalho em grupo de dois componentes)
+
+## 6 – Roteiro Caçadores de Ouro
+- [Roteiro Jogo Caçadores de Ouro](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/cacadores_ouro.md)
 
 ### Trabalhos
 - [Trabalho1 - Apresentação da Proposta]()
