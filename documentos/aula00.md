@@ -13,6 +13,6 @@
 - [ ] Uma visão geral dos gêneros
 - [ ] Jogos e a Sociedade
 
-[Notas de aula](https://github.com/marcoswagner-commits/jogos_digitais/files/8312251/aula00_historico_jogos.pdf)
+[Notas de aula](https://github.com/marcoswagner-commits/jogos_digitais/files/8312251/aula_00_historico_jogos.pdf)
 
 
