@@ -15,6 +15,7 @@
 
 [Notas de aula](documentos/aula_00_historico_jogos.pdf)
 
+[aula_4_game_design_canvas.pdf](https://github.com/marcoswagner-commits/jogos_digitais/files/8319236/aula_4_game_design_canvas.pdf)
 
 ### Material Complementar
 [Evolução Videogames](https://www.youtube.com/watch?v=aZOqOCiu9-4)
