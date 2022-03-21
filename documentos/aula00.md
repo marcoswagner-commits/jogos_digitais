@@ -14,3 +14,7 @@
 - [ ] Jogos e a Sociedade
 
 [Notas de aula](documentos/aula_00_historico_jogos.pdf)
+
+
+### Material Complementar
+[Evolução Videogames](https://www.youtube.com/watch?v=aZOqOCiu9-4)
