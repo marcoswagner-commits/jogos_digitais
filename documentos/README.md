@@ -6,7 +6,6 @@
 
 - [Plano de Ensino](https://github.com/marcoswagner-commits/jogos_digitais/files/8312251/plano_ensino_CJD_2021_2.pdf)
 
-- [Conteúdo do Curso](https://github.com/marcoswagner-commits/jogos_digitais/files/8312256/aula_1_2_Estudos_criticos_jogos.pdf)
 
 ### 1.1 Conteúdos
 
@@ -82,12 +81,12 @@
 
 ## 3 – Síntese do Curso
 
-1. Conceitos, definições e aplicações de Roteiro de Jogos
+1. Conceitos, definições e aplicações de Roteiro de Jogos 
 
 2. Usar a engine Unity3D para a criação de um Jogo Digital
 
 ## 3 - Roteiro de Jogos:
-Descrição: Síntese...
+Descrição: Ao iniciar o desenvolvimento de um jogo é imprescindível fazer um projeto deste jogo, para melhor desenvolver as ideias que serão trabalhadas, os níveis, os personagens principais, os inimigos, chefes de fase, dentre outros elementos. Sendo assim, a elaboração de um roteiro é uma atividade que conduz o desenvolvedor no melhor caminho para sua proposta de jogo. 
 
 ## 4 - Criação de Jogos (Unity3D):
 Descrição: Unity3D é uma engine que permite a construção de ambientes virtuais 2 e 3D, e, consequentemente possibilita a construção de jogos digitais (games), sejam pequenos e simples, ou, até mesmo grandes e complexos. Serão apresentados componentes básicos e essenciais desta ferramenta, comumente usados na maioria dos projetos. 
@@ -113,8 +112,8 @@ Passos:
 
 ### Aulas
 - Roteiro específico da Aula Inaugural  - 22/03/2022 * (Apresentação do Planejamento - Plano de Ensino - Metodologias) *
-- Roteiro específico da Aula Inaugural  - 24/03/2022 * (Introdução ao Desenvolvimento de Jogos) *
-- [Roteiro específico da Aula01 - 29/03/2022 - Roteiro de Jogos]()
+- [Roteiro específico da Aula Inaugural  - 24/03/2022](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula00.md) 
+- [Roteiro específico da Aula01 - 29/03/2022 - Roteiro de Jogos](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula01.md)
 - [Roteiro específico da Aula02 - 31/03/2022 - Game Engine Unity3D](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula02.md)
 - [Roteiro específico da Aula03 - 05/04/2022 - Projeto de Jogos]()
 - [Roteiro específico da Aula04 - 07/04/2022 - Instalação e Ambiente](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula04.md)
