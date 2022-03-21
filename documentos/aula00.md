@@ -12,10 +12,9 @@
 - [ ] Uma breve história dos videogames
 - [ ] Uma visão geral dos gêneros
 - [ ] Jogos e a Sociedade
+- [ ] 
+[Notas de aula](https://github.com/marcoswagner-commits/jogos_digitais/files/8319241/aula_00_historico_jogos.pdf)
 
-[Notas de aula](documentos/aula_00_historico_jogos.pdf)
-
-[aula_4_game_design_canvas.pdf](https://github.com/marcoswagner-commits/jogos_digitais/files/8319236/aula_4_game_design_canvas.pdf)
 
 ### Material Complementar
 [Evolução Videogames](https://www.youtube.com/watch?v=aZOqOCiu9-4)
