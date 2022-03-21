@@ -14,6 +14,6 @@
 - [ ] Jogos e a Sociedade
 
 🎬
-[![Notas de aula]()
+[![Notas de aula]((https://github.com/marcoswagner-commits/jogos_digitais/files/8312251/aula00_historico_jogos.pdf))
 
 
