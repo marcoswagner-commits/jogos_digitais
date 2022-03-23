@@ -85,14 +85,14 @@
 
 2. Usar a engine Unity3D para a criação de um Jogo Digital
 
-## 3 - Roteiro de Jogos:
+## 4 - Roteiro de Jogos:
 Descrição: Ao iniciar o desenvolvimento de um jogo é imprescindível fazer um projeto deste jogo, para melhor desenvolver as ideias que serão trabalhadas, os níveis, os personagens principais, os inimigos, chefes de fase, dentre outros elementos. Sendo assim, a elaboração de um roteiro é uma atividade que conduz o desenvolvedor no melhor caminho para sua proposta de jogo. 
 
-## 4 - Criação de Jogos (Unity3D):
+## 5 - Criação de Jogos (Unity3D):
 Descrição: Unity3D é uma engine que permite a construção de ambientes virtuais 2 e 3D, e, consequentemente possibilita a construção de jogos digitais (games), sejam pequenos e simples, ou, até mesmo grandes e complexos. Serão apresentados componentes básicos e essenciais desta ferramenta, comumente usados na maioria dos projetos. 
 
 
-## 5 – Síntese do Curso
+## 6 – Síntese do Curso
 Passos:
 1. Instalar ferramentas e criar contas (Unity3D - GitHub - Itch.io)
 
@@ -106,7 +106,7 @@ Passos:
 
 6. Construir o jogo digital (trabalho em grupo de dois componentes)
 
-## 6 – Roteiro Caçadores de Ouro
+## 7 – Roteiro Caçadores de Ouro
 - [Roteiro Jogo Caçadores de Ouro](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/cacadores_ouro.md)
 
 ### Trabalhos
