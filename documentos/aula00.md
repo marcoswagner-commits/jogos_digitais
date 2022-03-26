@@ -1,6 +1,5 @@
-## Aula 00 - Histórico de Jogos
+## Aula - Histórico de Jogos
 
-> Aula 24/03/2022
 > Atividades da aula - Histórico dos Jogos
 
 ## Histórico dos Jogos
