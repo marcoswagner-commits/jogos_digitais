@@ -6,7 +6,6 @@
 
 - [Plano de Ensino](https://github.com/marcoswagner-commits/jogos_digitais/files/8312251/plano_ensino_CJD_2021_2.pdf)
 
-
 ### 1.1 Conteúdos
 
 1.1 Introdução ao Desenvolvimento de Jogos
@@ -65,7 +64,6 @@
 ### 1.3 Avaliações
 
 1.3.1. Um único projeto (incluindo GDD - Roteiro de Jogo - Implementação)
-
 
 ## 2  - Ferramentas e recursos
 
