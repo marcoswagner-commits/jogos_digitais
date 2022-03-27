@@ -17,4 +17,6 @@
 
 
 ### Material Complementar
-[Evolução Videogames](https://www.youtube.com/watch?v=aZOqOCiu9-4)
+[Evolução dos Videogames - História narrada](https://www.youtube.com/watch?v=aZOqOCiu9-4)
+[Evolução dos Videogames - Exemplos de Jogos - 1](https://www.youtube.com/watch?v=IsPPWWlV-T8)
+[Evolução dos Videogames - Exemplos de Jogos - 2](https://www.youtube.com/watch?v=ROjqn1g4Nxk)
