@@ -21,4 +21,4 @@
 - [Evolução dos Videogames - História narrada](https://www.youtube.com/watch?v=9CJqu8Doxok&t=123s)
 - [Evolução dos Videogames - Exemplos de Jogos - 1](https://www.youtube.com/watch?v=IsPPWWlV-T8)
 - [Evolução dos Videogames - Exemplos de Jogos - 2](https://www.youtube.com/watch?v=ROjqn1g4Nxk)
-- [A era do Videogame - Documentário da Discovety Channel](https://www.youtube.com/watch?v=KzTpNEAfEWg)
+- [A era do Videogame - Documentário da Discovery Channel](https://www.youtube.com/watch?v=KzTpNEAfEWg)
