@@ -13,8 +13,8 @@
 - [ ] Jogos e a Sociedade
 
 ### Material
-- [Notas de aula 1](documentos/historico_jogos_completo.pdf)
-- [Notas de aula 2](documentos/historia_jogos_com_video.pdf)
+- [Notas de aula 1](/documentos/historico_jogos_completo.pdf)
+- [Notas de aula 2](/documentos/historia_jogos_com_video.pdf)
 
 
 ### Material Complementar
