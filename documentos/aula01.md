@@ -16,3 +16,6 @@
 
 ### Material
 [Notas de aula](/documentos/roteiro_de_jogos.pdf)
+
+### Videoaula Criação de Jogos Digitais -  Roteiro de Jogos
+[![Histórico dos Jogos](capa_2.png)](https://youtu.be/cUdBWEnjh-Y)
