@@ -22,3 +22,6 @@
 - [Evolução dos Videogames - Exemplos de Jogos - 1](https://www.youtube.com/watch?v=IsPPWWlV-T8)
 - [Evolução dos Videogames - Exemplos de Jogos - 2](https://www.youtube.com/watch?v=ROjqn1g4Nxk)
 - [A era do Videogame - Documentário da Discovery Channel](https://www.youtube.com/watch?v=KzTpNEAfEWg)
+
+### Videoaula Criação de Jogos Digitais -  Histórico dos Jogos
+[![Histórico dos Jogos](capa_1.png)](https://youtu.be/jDOaMXXgnLQ)
