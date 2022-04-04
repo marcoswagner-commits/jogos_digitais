@@ -113,7 +113,7 @@ Passos:
 
 ### Aulas
 - Roteiro específico da Aula Inaugural  - 22/03/2022 * (Apresentação do Planejamento - Plano de Ensino - Metodologias) *
-- [Roteiro específico da Aula Inaugural  - 24/03/2022 - Histórico de Jogos](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula00.md) 
+- [Roteiro específico da Aula Inaugural  - 24/03/2022 - Histórico de Jogos](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aulaA00.md) 
 - [Roteiro específico da Aula01 - 29/03/2022 - Roteiro de Jogos](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula01.md)
 - [Roteiro específico da Aula02 - 31/03/2022 - Game Engine Unity3D](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula02.md)
 - [Roteiro específico da Aula03 - 05/04/2022 e 12/04/2022 - Projeto de Jogos - Parte 1 e Parte 2]()
