@@ -59,4 +59,7 @@ O curso terá a seguinte estrutura:
 🎬
 [![material complementar](https://github.com/marcoswagner-commits/projetos_cg/blob/aa3f6a6ace359cfac3b5b9f9758fb9c642fe950b/Capa_Aula_Unity3D.png)](https://www.youtube.com/watch?v=lpSgS96B50k)
 
+[POLVO.zip](https://github.com/marcoswagner-commits/jogos_digitais/files/8410350/POLVO.zip)
+
+O modelo acima foi construído usando a ferramenta ZBrush. O ZBrush um programa de computador comercial de modelagem digital tridimensional e texturarização em alta resolução, criado pela empresa Pixologic, que usa tecnologia pixol que combina 2.5D e 3D, usado em produção de filmes e criação de personagens de jogos em 3D.
 
