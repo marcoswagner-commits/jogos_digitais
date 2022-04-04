@@ -54,7 +54,9 @@ O curso terá a seguinte estrutura:
 - alt-c1, alt-c2, alt-c3, f
 - [x] Tranformações (Move, Rotate, Scale) - Gizmos e Manipulação
 - [x] Materiais
- - Primeiro jogador (personagem) e primeiro plano  
+ - Primeiro jogador (personagem) e primeiro plano
+- [x] Texturas
+ - Exemplo com o "Polvo"
 
 🎬
 [![material complementar](https://github.com/marcoswagner-commits/projetos_cg/blob/aa3f6a6ace359cfac3b5b9f9758fb9c642fe950b/Capa_Aula_Unity3D.png)](https://www.youtube.com/watch?v=lpSgS96B50k)
