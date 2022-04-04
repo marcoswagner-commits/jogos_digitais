@@ -116,18 +116,17 @@ Passos:
 - [Roteiro específico da Aula Inaugural  - 24/03/2022 - Histórico de Jogos](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula00.md) 
 - [Roteiro específico da Aula01 - 29/03/2022 - Roteiro de Jogos](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula01.md)
 - [Roteiro específico da Aula02 - 31/03/2022 - Game Engine Unity3D](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula02.md)
-- [Roteiro específico da Aula03 - 05/04/2022 - Projeto de Jogos]()
+- [Roteiro específico da Aula03 - 05/04/2022 e 12/04/2022 - Projeto de Jogos - Parte 1 e Parte 2]()
 - [Roteiro específico da Aula04 - 07/04/2022 - Instalação e Ambiente](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula04.md)
-- [Roteiro específico da Aula05 - 12/04/2022 - Funções de um Projetista]()
+- [Roteiro específico da Aula05 - 19/04/2022 - Funções de um Projetista]()
 - [Roteiro específico da Aula06 - 14/04/2022 - Programação](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula06.md)
-- [Roteiro específico da Aula07 - 19/04/2022 - Documento do Projeto]()
-- [Roteiro específico da Aula08 - 26/04/2022 - Documento do Projeto ]()
+- [Roteiro específico da Aula08 - 26/04/2022 - Átomos do Jogo ]()
 - [Roteiro específico da Aula09 - 28/04/2022 - Programação](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula09.md)
-- [Roteiro específico da Aula10 - 03/05/2022 - Átomos do Jogo]()
+- [Roteiro específico da Aula10 - 03/05/2022 - Percepções e Emoções do Jogador]()
 - [Roteiro específico da Aula11 - 05/05/2022 - Movimentos](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula11.md)
-- [Roteiro específico da Aula12 - 10/05/2022 - Percepções e Emoções do Jogo]()
+- [Roteiro específico da Aula12 - 10/05/2022 - Desafios para Jogador]()
 - [Roteiro específico da Aula13 - 12/05/2022 - Movimentos](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula13.md)
-- [Roteiro específico da Aula14 - 17/05/2022 - Percepções e Emoções do Jogo]()
+- [Roteiro específico da Aula14 - 17/05/2022 - Criatividade]()
 
 - Roteiro específico da Aula de Apresentação de Trabalho  - 19/05/2022 * (Avaliação do Roteiro) *
 
@@ -137,7 +136,7 @@ Passos:
 - [Roteiro específico da Aula18 - 14/06/2022 - Interface com o usuário]()
 - [Roteiro específico da Aula19 - 21/06/2022 - Gerenciamento de Invetário]()
 - [Roteiro específico da Aula20 - 23/06/2022 - Animação](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula20.md)
-- [Roteiro específico da Aula21 - 28/06/2022 - Documento do jogo]()
+- [Roteiro específico da Aula21 - 28/06/2022 - Desenvolvimento do Jogo]()
 - [Roteiro específico da Aula22 - 30/06/2022 - NavMesh, Audios e Build](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula22.md)
 
 - Roteiro específico da Aula de Apresentação Final - 05 e 07/07/2022 * (Avaliação do Roteiro e do Jogo) 
