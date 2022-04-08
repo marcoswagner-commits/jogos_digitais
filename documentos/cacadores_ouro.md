@@ -3,6 +3,7 @@
 ## PLATAFORMA
 - Este jogo será desenvolvido para desktop, tendo como público-alvo pessoas que gostam de desafios, porém não fazem questão de estratégias e objetivos inalcançáveis, que possuam idade entre 6 e 60 anos e a data de lançamento esperada é 05 de julho de 2022.
 - O formato do jogo é em 3D sem uso de Realidade Virtual com renderização simples.
+- O nome do projeto será: GOLDHUNTER
 
 ## CONCEITO
 - Este jogo acontece no deserto dentro de uma pirâmide. O formato do jogo é um ringue, onde o personagem principal deverá coletar o máximo possível de itens de ouro para alcançar o próximo nível. Lembre-se que não é apenas coletar ouro, mas é necessário escapar das perigosas caveiras, que cuidam dos itens de ouro e estão rondando o ambiente e podem surpreender você em algum canto da tela. CUIDADO!
