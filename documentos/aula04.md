@@ -64,6 +64,9 @@ O curso terá a seguinte estrutura:
 
 [POLVO.zip](https://github.com/marcoswagner-commits/jogos_digitais/files/8410350/POLVO.zip)
 
+![Captura de Tela 2022-04-08 às 10 34 33](https://user-images.githubusercontent.com/81576640/162446893-2d0e7fb2-27cb-4632-98d1-1312e87e48d6.png)
+
+
 O modelo acima foi construído usando a ferramenta ZBrush. O ZBrush um programa de computador comercial de modelagem digital tridimensional e texturarização em alta resolução, criado pela empresa Pixologic, que usa tecnologia pixol que combina 2.5D e 3D, usado em produção de filmes e criação de personagens de jogos em 3D.
 
 [Ground_Dirt_005_SD.zip](https://github.com/marcoswagner-commits/jogos_digitais/files/8420769/Ground_Dirt_005_SD.zip)
