@@ -6,10 +6,14 @@
 - O nome do projeto será: GOLDHUNTER
 
 ## CONCEITO
-- Este jogo acontece no deserto dentro de uma pirâmide. O formato do jogo é um ringue, onde o personagem principal deverá coletar o máximo possível de itens de ouro para alcançar o próximo nível. Lembre-se que não é apenas coletar ouro, mas é necessário escapar das perigosas caveiras, que cuidam dos itens de ouro e estão rondando o ambiente e podem surpreender você em algum canto da tela. CUIDADO!
+- Este jogo acontece na idade média, no deserto, dentro de uma pirâmide onde o personagem principal (ROBÔ GUERREIRO) ficará restrito dentro de uma espécie de um "ringue de luta" (pois não tem as cordas, mas estabelece limites para o movimento do personagem). Em um passado os habitantes de ROBOTRIX ajudaram a construir as pirâmides na Terra e deixaram muitas peças de ouro, que atualmente se tornaram indispensáveis para a continuidade da sobrevivência em ROBOTRIX. Portanto, o jogador ROBÔ GUERREIRO deverá coletar o máximo possível de itens de ouro para alcançar o próximo nível e assim poder voltar ao seu planeta e salvar os seus conterrâneos. No entanto, os velhos moradores dessas pirâmides não aceitarão pacificamente a coleta do ouro. Lembre-se que não é apenas coletar ouro, mas é necessário escapar das perigosas caveiras, que cuidam dos itens de ouro e protegem o ambiente podendo surpreender o ROBÔ GUERREIRO em algum canto da pirâmide. 
+- Objetos do Jogo: tablado, jogador, inimigo e peças de ouro.
 
 ## JOGABILIDADE
-- Neste jogo existe muita corrida, pois é necessário coletar os itens de ouro antes que eles desapareçam, quanto mais rápido você coletar estes itens, melhor será seu desempenho. Porém, não adianta apenas coletar, você deve correr para escapar das perigosas caveiras. Seu desempenho na coleta de ouro e escape das caveiras determina se haverá mudança de nível ou não. Fique atento.
+- Neste jogo existe muita corrida, pois é necessário coletar os itens de ouro e escapar das perigosas caveiras, quanto mais rápido você coletar estes itens, melhor será seu desempenho. Porém, não adianta apenas coletar, você deve correr para escapar das perigosas caveiras. Seu desempenho na coleta de ouro e escape das caveiras determina se haverá mudança de nível ou não. Fique atento.
+- Objetos de Jogabilidade: Inserção dos personagens e suas características (movimentos, ações)
+- Ações: JOGADOR - correr, andar, coletar, comemorar
+- Ações: INIMIGO - golpear, exterminar, andar
 
 ## FLUXO DO JOGO
 - Este jogo possui três níveis iniciais, aumentando a quantidade de caveiras e ouro para ser coletado, sendo que no primeiro nível temos 1 caveira  e  7 itens de ouro. Lembre-se também que, ao conseguir adquirir poções, será possível adquirir poderes para enfrentar as caveiras perigosas e se não tiver poder suficiente, você não conseguirá enfrentar o CAVEIRÃO. Ressalta-se que a cada três níveis terá um chefe de fase para passar para o próximo nível, e os poderes adquiridos, com poções, serão necessários nestas batalhas.
