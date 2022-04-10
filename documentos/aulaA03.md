@@ -22,6 +22,7 @@
 
 ### Material
 [Notas de aula](/documentos/03_projeto_de_jogos_parte1_e_2.pdf)
+[Documento Game Design Canvas](/documentos/documento_completo.pptx)
 
 ### Videoaulas Criação de Jogos Digitais -  Projeto de Jogos Parte 1 e Parte 2
 [![Projeto de Jogos Parte 1](capa_3.png)](https://youtu.be/6_gNzhCfdQo)
