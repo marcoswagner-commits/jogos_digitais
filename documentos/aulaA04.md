@@ -29,7 +29,7 @@
 
 
 ### Material
-- [Notas de aula](/documentos/04_funcoes_projetista.pdf)
+- [Notas de aula](/documentos/funcoes_projetista.pdf)
 
 ### Videoaula Criação de Jogos Digitais -  Funções de um projetista
 [![Funções de um projetista](capa_5.png)](https://youtu.be/AIUM7LcWO8w)
