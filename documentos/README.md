@@ -119,7 +119,7 @@ Passos:
 - [Roteiro específico da Aula03 e 04 - 05/04/2022 e 12/04/2022 - Projeto de Jogos - Parte 1 e Parte 2](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aulaA03.md))
 - [Roteiro específico da Aula05 - 07/04/2022 - Instalação e Ambiente](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula04.md)
 - [Roteiro específico da Aula06 - 14/04/2022 - Programação](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula06.md)
-- [Roteiro específico da Aula07 - 19/04/2022 - Funções de um Projetista]((https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aulaA04.md)
+- [Roteiro específico da Aula07 - 19/04/2022 - Funções de um Projetista](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aulaA04.md)
 - [Roteiro específico da Aula08 - 26/04/2022 - Átomos do Jogo ]()
 - [Roteiro específico da Aula09 - 28/04/2022 - Programação](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula09.md)
 - [Roteiro específico da Aula10 - 03/05/2022 - Percepções e Emoções do Jogador]()
