@@ -9,8 +9,12 @@
 - Atividades para desenvolvimento desta habilidade
 
 ### Roteiro Aula - Funções de um Designer de Games
-- [ ] O que é
-
+- [ ] O que é criatividade
+- [ ] Dicas para desenvolver a criatividade
+- [ ] Fazer associações inovadoras 
+- [ ] Lista de objetos e ações e unir os conceitos de forma criativa e inovadora
+- [ ] Brainstorming: Uma técnica para muitas ideias e que podem ser combinadas
+- [ ] Atividades para o desenvolvimento da criatividade
 
 
 ### Material
