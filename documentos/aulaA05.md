@@ -1,4 +1,4 @@
-## Aula - Criatividade
+## Aula 08 - Criatividade
 
 > Atividades da aula - Nesta aula será apresentada a importância da criatividade na profissão designer de games. 
 
