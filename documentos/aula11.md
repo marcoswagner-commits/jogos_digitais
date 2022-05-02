@@ -1,4 +1,4 @@
-## Aula 11 e 13 - Criação de Jogos Digitais
+## Aula 09 - Criação de Jogos Digitais
 
 > Aula 28/04/2022 
 > Atividades da aula - Movimento
