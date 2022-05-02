@@ -1,6 +1,6 @@
-## Aula 11 - Criação de Jogos Digitais
+## Aula 17 - Criação de Jogos Digitais
 
-> Aula 05/05/2022
+> Aula 02/06/2022
 > Atividades da aula - Câmera - Início do Projeto do Jogo
 
 ## Engine Gráfica Unity3D
