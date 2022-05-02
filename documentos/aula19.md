@@ -4,9 +4,10 @@
 > Atividades da aula - Animação - Sequência do Projeto (Caçadores de Ouro)
 
 ## Engine Gráfica Unity3D
-
 - [Conteúdo do Curso - Material sugerido](https://docs.unity3d.com/Manual/Materials.html)
 
+### Roteiro Caçadores de Ouro
+- [Roteiro Jogo Caçadores de Ouro](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/cacadores_ouro.md)
 
 
 ### Passo 7: Animação
