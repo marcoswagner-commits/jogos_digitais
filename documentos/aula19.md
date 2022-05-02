@@ -1,7 +1,7 @@
 ## Aula 20 - Criação de Jogos Digitais
 
 > Aula 23/06/2022
-> Atividades da aula - Animação
+> Atividades da aula - Animação - Sequência do Projeto (Caçadores de Ouro)
 
 ## Engine Gráfica Unity3D
 
