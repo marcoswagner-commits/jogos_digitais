@@ -1,6 +1,6 @@
 ## Aula 11 e 13 - Criação de Jogos Digitais
 
-> Aula 05/05/2022 e 12/05/2022 
+> Aula 28/04/2022 
 > Atividades da aula - Movimento
 
 ## Engine Gráfica Unity3D
