@@ -130,15 +130,15 @@ Passos:
 - [Roteiro específico da Aula14 - 17/05/2022 - Desafios para Jogador]()
 
 - Roteiro específico da Aula de Apresentação de Trabalho  - 19/05/2022 * (Avaliação do Roteiro) *
-
-- [Roteiro específico da Aula15 - 02/06/2022 - Câmera](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula15.md)
+- [Roteiro específico da Aula15 - 26/05/2022 - Interface com o Uusário - Projeto](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula17a.md)
+- [Roteiro específico da Aula15 - 02/06/2022 - Animação - Projeto](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula15.md)
 - [Roteiro específico da Aula16 - 07/06/2022 - NPCs]()
-- [Roteiro específico da Aula17 - 09/06/2022 - Interação](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula17.md)
+- [Roteiro específico da Aula17 - 09/06/2022 - NavMesh - Projeto](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula17.md)
 - [Roteiro específico da Aula18 - 14/06/2022 - Interface com o usuário]()
 - [Roteiro específico da Aula19 - 21/06/2022 - Gerenciamento de Invetário]()
-- [Roteiro específico da Aula20 - 23/06/2022 - Animação](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula20.md)
+- [Roteiro específico da Aula20 - 23/06/2022 - Audios - Projeto](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula20.md)
 - [Roteiro específico da Aula21 - 28/06/2022 - Desenvolvimento do Jogo]()
-- [Roteiro específico da Aula22 - 30/06/2022 - NavMesh, Audios e Build](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula22.md)
+- [Roteiro específico da Aula22 - 30/06/2022 - Incrementos no Jogo e Build](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula22.md)
 
 - Roteiro específico da Aula de Apresentação Final - 05 e 07/07/2022 * (Avaliação do Roteiro e do Jogo) 
 
