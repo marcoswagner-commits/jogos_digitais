@@ -1,11 +1,13 @@
-## Aula 20 - Criação de Jogos Digitais
+## Aula 17 - Criação de Jogos Digitais
 
-> Aula 23/06/2022
+> Aula 02/06/2022
 > Atividades da aula - Animação - Sequência do Projeto (Caçadores de Ouro)
 
 ## Engine Gráfica Unity3D
 
 - [Conteúdo do Curso - Material sugerido](https://docs.unity3d.com/Manual/Materials.html)
+
+
 
 ### Passo 7: Animação
 - [x] Import de Assets
