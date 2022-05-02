@@ -1,7 +1,7 @@
 ## Aula 24 - Criação de Jogos Digitais
 
-> Aula 30/06/2022
-> Atividades da aula - Incrementos no Jogo - Build - Conclusão do Projeto (Caçadores de Ouro)
+> Aula 09/06/2022
+> Atividades da aula - Inimigos e NavMesh - Sequência do Projeto (Caçadores de Ouro)
 
 ## Engine Gráfica Unity3D
 
