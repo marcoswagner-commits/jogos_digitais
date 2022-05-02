@@ -1,4 +1,4 @@
-## Aula 24 - Criação de Jogos Digitais
+## Aula 19 - Criação de Jogos Digitais
 
 > Aula 09/06/2022
 > Atividades da aula - Inimigos e NavMesh - Sequência do Projeto (Caçadores de Ouro)
