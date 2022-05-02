@@ -34,3 +34,6 @@
 ### Videoaula Criação de Jogos Digitais -  Funções de um projetista
 [![Funções de um projetista](capa_5.png)](https://youtu.be/AIUM7LcWO8w)
 
+### Material Extra
+[![A profissão designer de Games](profissao.png)](https://www.youtube.com/watch?v=h56s_iuCnxk)
+
