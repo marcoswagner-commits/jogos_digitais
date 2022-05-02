@@ -7,6 +7,9 @@
 
 - [Conteúdo do Curso - Material sugerido](https://docs.unity3d.com/Manual/Materials.html)
 
+### Roteiro Caçadores de Ouro
+- [Roteiro Jogo Caçadores de Ouro](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/cacadores_ouro.md)
+
 ### Passo 8: Inimigo e NavMesh
 - [x] Importando um "inimigo"
  - https://assetstore.unity.com
