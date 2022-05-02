@@ -1,4 +1,4 @@
-## Aula 22 - Criação de Jogos Digitais
+## Aula 24 - Criação de Jogos Digitais
 
 > Aula 30/06/2022
 > Atividades da aula - Inimigo, NavMesh, Audios, Build
