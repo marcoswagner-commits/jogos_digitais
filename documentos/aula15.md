@@ -7,6 +7,9 @@
 
 - [Conteúdo do Curso - Material sugerido](https://docs.unity3d.com/Manual/Materials.html)
 
+### Roteiro Caçadores de Ouro
+- [Roteiro Jogo Caçadores de Ouro](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/cacadores_ouro.md)
+
 
 ### Passo 4: Câmeras
 - [x] Câmera
@@ -14,6 +17,9 @@
   - Câmera "filha" do Jogador
   - Câmera x Jogador - Script (CameraController)
    - Obtendo posição do jogador e atualizando a posição da câmera (LateUpdate)
+- [x] Roteiro do Jogo - Caçadores de Ouro
+ - Leitura do Roteiro
+ - Análise do cenário inicial (cenas, modelos 2 ou 3D, personagens iniciais)
 - [x] Cenário
  - Criando um limite/fronteira para o plano
  - Criando cubos para limitar o cenário do jogo
