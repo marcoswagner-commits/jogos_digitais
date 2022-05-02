@@ -1,7 +1,7 @@
 ## Aula 17 - Criação de Jogos Digitais
 
-> Aula 09/06/2022
-> Atividades da aula - Interação e Interface com o Usuário
+> Aula 12/05/2022
+> Atividades da aula - Interação - Sequência do Projeto (Caçadores de Ouro)
 
 ## Engine Gráfica Unity3D
 
