@@ -1,4 +1,4 @@
-## Aula - Funções de um Projetista de Jogos (Designer de Games)
+## Aula 07 - Funções de um Projetista de Jogos (Designer de Games)
 
 > Atividades da aula - Nesta aula será discutido sobre as principais funções de um designer de games e habilidades necessárias para este profissional. 
 > Peguntas motivadoras: Será que o trabalho do designer termina após o término da escrita do documento de design? Será que a função de um designer é apenas ter ideias geniais?
