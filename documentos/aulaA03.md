@@ -1,4 +1,4 @@
-## Aula - Projeto de Jogos - Parte 1 e Parte 2
+## Aulas 03 e 05 - Projeto de Jogos - Parte 1 e Parte 2
 
 > Atividades da aula - Construindo o Conceito do Jogo, Qual a motivação para o desenvolvimento do Jogo, Como devo começar, meu primeiro roteiro
 
