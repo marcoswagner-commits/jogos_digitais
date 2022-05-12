@@ -103,4 +103,7 @@ public class GiraItem : MonoBehaviour
  
  ```
  
+ ### Texturas
+- [Texturas para chão e esfera](https://github.com/marcoswagner-commits/jogos_digitais/files/8681386/Textura.zip)
+
 
