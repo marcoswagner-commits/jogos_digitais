@@ -11,4 +11,4 @@
 - [ ] Grupo 5 - Thiago e Carlos
 - [ ] Grupo 6 - Vinícius e Elias
 - [ ] Grupo 7 - Thiago e Carlos
-- [ ] Grupo 8 - Votor Merêncio
+- [ ] Grupo 8 - Vitor Merêncio
