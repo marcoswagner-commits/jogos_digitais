@@ -134,7 +134,7 @@ Passos:
 - [Roteiro específico da Aula17 - 02/06/2022 - Animação - Projeto - Unity3D](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula19.md)
 - [Roteiro específico da Aula18 - 07/06/2022 - Desafios para Jogador]()
 - [Roteiro específico da Aula19 - 09/06/2022 - Inimigos e NavMesh - Projeto - Unity3D](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula22a.md)
-- [Roteiro específico da Aula20 - 14/06/2022 - NPCs]()
+- [Roteiro específico da Aula20 - 14/06/2022 - NPCs e Personagens]()
 - [Roteiro específico da Aula21 - 21/06/2022 - Gerenciamento de Invetário]()
 - [Roteiro específico da Aula22 - 23/06/2022 - Audios - Projeto - Unity3D](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula22b.md)
 - [Roteiro específico da Aula23 - 28/06/2022 - Interface com o usuário]()
