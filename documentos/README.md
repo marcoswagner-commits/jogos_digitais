@@ -132,7 +132,7 @@ Passos:
 - Roteiro específico da Aula15 de Apresentação de Trabalho  - 19/05/2022 * (Avaliação do Roteiro) *
 - [Roteiro específico da Aula16 - 26/05/2022 - Interface com o Usuário - Projeto - Unity3D](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula17b.md)
 - [Roteiro específico da Aula17 - 02/06/2022 - Animação - Projeto - Unity3D](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula19.md)
-- [Roteiro específico da Aula18 - 07/06/2022 - Desafios para Jogador]()
+- [Roteiro específico da Aula18 - 07/06/2022 - Desafios para Jogador](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aulaA09.md)
 - [Roteiro específico da Aula19 - 09/06/2022 - Inimigos e NavMesh - Projeto - Unity3D](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula22a.md)
 - [Roteiro específico da Aula20 - 14/06/2022 - NPCs e Personagens]()
 - [Roteiro específico da Aula21 - 21/06/2022 - Gerenciamento de Invetário]()
