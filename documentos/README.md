@@ -137,7 +137,7 @@ Passos:
 - [Roteiro específico da Aula20 - 14/06/2022 - NPCs e Personagens]()
 - [Roteiro específico da Aula21 - 21/06/2022 - Gerenciamento de Inventário]()
 - [Roteiro específico da Aula22 - 23/06/2022 - Audios - Projeto - Unity3D](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula22b.md)
-- [Roteiro específico da Aula23 - 28/06/2022 - Interface com o usuário]()
+- [Roteiro específico da Aula23 - 28/06/2022 - Desenvolvimento Jogo]()
 - [Roteiro específico da Aula24 - 30/06/2022 - Incrementos no Jogo e Build - Conclusão do Projeto - Unity3D](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula22c.md)
 
 - Roteiro específico da Aula de Apresentação Final - 05 e 07/07/2022 * (Avaliação do Roteiro e do Jogo) 
