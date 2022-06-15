@@ -7,22 +7,17 @@
 - NPC
 - Tipos de personagens
 - Arquétipos de Personagens
-### Roteiro Aula - Desafios para o Jogador
-- [ ] O impulso contínuo para jogar é onosso desejo de superar um desafio
-- [ ] Como jogadores ansiamos por desafios
-- [ ] Desta forma a jogabilidade envolve uma série de desafios interligados
-- [ ] Os tipos de desafios estão relacionados com o gênero do jogo
-- [ ] Os desafios podem ser IMPLÍCITOS ou EXPLÍCITOS: Estar evidente ou não em um jogo
-- [ ] Os desafios podem ser COM INFORMAÇÕES PERFEITAS ou COM INFORMAÇÕES IMPERFEITAS: O jogador pode ter todas as informações e desenvolver sua forma de jogo ou ter apenas parte destas informações
-- [ ] Os desafios podem ser baseados em CONHECIMENTOS INTRÍNSECOS ou EXTRÍNSECOS: Intrínseco é quando o jogador aprende no próprio jogo, Extrínseco é quando o jogador depende de conhecimentos externos ao sistema, aprendidos em seu cotidiano.
-- [ ] Desafios de RECONHECIMENTO E ASSOCIAÇÃO DE PADRÕES: Muito comum quando o jogador deve tomar decisões rápidas, TETRIS é um exemplo. Depende de um raciocínio automático.
-- [ ] Desafio de PERCEPÇÃO ESPACIAL: O jogador deve se orientar pelos ambientes. Jogos de corrida são exemplos.
-- [ ] Desafios de MICROGESTÃO: O jogador deve gerir seus poderes e armas no enfrentamento de um vilão, por exemplo.
-- [ ] Desafios TEMPO DE REAÇÃO: É significativo quando a velocidade de resposta está diretamente relacionada à velocidade em que o personagem reage no game.
-- [ ] Desafio em sala de aula: VERDADE ou MENTIRA.
+
+### Roteiro Aula - NPC (Personagens não Jogadores) e Personagens
+- [ ] Personagens não jogadores são aqueles que não são controlados pelos jogadores no mundo do game
+- [ ] NPC são criados e controlados pelo mecanismo de IA
+- [ ] Tipos de personagens: Animais, Fictícios, Históricos, Licenciados e Míticos
+- [ ] Arquétipos é um conceito da psicologia para representar padrões de comportamento associados a um personagem ou papel social. 
+- [ ] Arquétipos de personagens: Herói, Sombra, Mentor, Aliado, Trapaceiro, mensageiro, Guardião.
+- [ ] Atividade: Se tivesse que criar um personagem baseado em si próprio, qual seria sua aparência? Descreva-se em termos de um personagem de game. Quais são as suas características físicas e de personalidade, seus objetivos, seus pontos fortes e fracos, suas preferências e antipatias, seu estado de espírito geral? Discuta outros personagens que poderiam aparecer no game. (Obs. Esses personagens não precisam necessariamente ser seus aliados; eles podem representar obstáculos que o impedem de atingir seus objetivos.
 
 ### Material
-- [Notas de aula](/documentos/desafios.pdf)
+- [Notas de aula](/documentos/NPC_PERSONAGENS.pdf)
 
 ### Videoaula Criação de Jogos Digitais -  Percepções e Emoções de um Jogador
-[![Desafios para o jogador](capa_9.png)](https://youtu.be/KN1YyVYRkDU)
+[![NPC e Personagens](capa_10.png)]()
