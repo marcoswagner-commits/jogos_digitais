@@ -19,5 +19,5 @@
 ### Material
 - [Notas de aula](/documentos/NPC_PERSONAGENS.pdf)
 
-### Videoaula Criação de Jogos Digitais -  Percepções e Emoções de um Jogador
+### Videoaula Criação de Jogos Digitais -  NPC e Personagens
 [![NPC e Personagens](capa_10.png)]()
