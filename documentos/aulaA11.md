@@ -4,20 +4,21 @@
 
 ## Conceitos trabalhados nesta aula
 
-> Como deve funcionar o gerenciamento de inventário
+- Como deve funcionar o gerenciamento de inventário
+- Como apresentar e gerir powerups
+- Atividade inventário
 
-
-
-### Roteiro Aula - NPC (Personagens não Jogadores) e Personagens
-- [ ] Personagens não jogadores são aqueles que não são controlados pelos jogadores no mundo do game
-- [ ] NPC são criados e controlados pelo mecanismo de IA
-- [ ] Tipos de personagens: Animais, Fictícios, Históricos, Licenciados e Míticos
-- [ ] Arquétipos é um conceito da psicologia para representar padrões de comportamento associados a um personagem ou papel social. 
-- [ ] Arquétipos de personagens: Herói, Sombra, Mentor, Aliado, Trapaceiro, mensageiro, Guardião.
-- [ ] Atividade: Se tivesse que criar um personagem baseado em si próprio, qual seria sua aparência? Descreva-se em termos de um personagem de game. Quais são as suas características físicas e de personalidade, seus objetivos, seus pontos fortes e fracos, suas preferências e antipatias, seu estado de espírito geral? Discuta outros personagens que poderiam aparecer no game. (Obs. Esses personagens não precisam necessariamente ser seus aliados; eles podem representar obstáculos que o impedem de atingir seus objetivos.
+### Roteiro Aula - Gerenciamento de Inventário e PowerUps
+- [ ] O que são itens de inventário
+- [ ] O que são powerups
+- [ ] Como o designer de games deve organizar o inventário, levando em consideração a usabilidade e melhor satisfação do jogador
+- [ ] Evitar o tetris de inventário, ou seja, que o jogador deve ficar organizando o inventário para entender os itens que possui
+- [ ] Itens de jogador: são objetos encontrados no mundo e que são pegos pelo jogador e adicionados a algum tipo de sistema de gerenciamento de inventário.
+- [ ] Powerups: são ativados no momento em que são pegos e possuem apenas um efeito de curto prazo ou imediato.
+- [ ] Atividade: No seu game favorito, faça uma análise do gerenciamento de inventário. Se você tivesse que melhorar algo neste gerenciamento, o que faria? Por quê? 
 
 ### Material
-- [Notas de aula](/documentos/NPC_PERSONAGENS.pdf)
+- [Notas de aula](/documentos/gerenciamento_inventario.pdf)
 
-### Videoaula Criação de Jogos Digitais -  NPC e Personagens
-[![NPC e Personagens](capa_10.png)]()
+### Videoaula Criação de Jogos Digitais -  Gerenciamento de Inventário e PowerUps
+[![Gerenciamento de Inventário e Powerups](capa_11.png)]()
