@@ -21,4 +21,4 @@
 - [Notas de aula](/documentos/gerenciamento_inventario.pdf)
 
 ### Videoaula Criação de Jogos Digitais -  Gerenciamento de Inventário e PowerUps
-[![Gerenciamento de Inventário e Powerups](capa_11.png)]()
+[![Gerenciamento de Inventário e Powerups](capa_11.png)](https://youtu.be/DyQ8FqRVaFc)
