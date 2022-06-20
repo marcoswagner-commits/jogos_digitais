@@ -20,4 +20,4 @@
 - [Notas de aula](/documentos/NPC_PERSONAGENS.pdf)
 
 ### Videoaula Criação de Jogos Digitais -  NPC e Personagens
-[![NPC e Personagens](capa_10.png)]()
+[![NPC e Personagens](capa_10.png)](https://youtu.be/GWLp8Psrv18)
