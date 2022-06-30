@@ -24,7 +24,7 @@
 - [x] Audio via script
   - Criar um componente no script do jogador do tipo AudioSource (GetComponent - audioSource)
   - Criar uma variável pública do tipo AudioClip para três áudios (itens coletados, vitória e morte)
-  - Criar uma função para tocar o audio (PlayAudio - AuditoClip clip)
+  - Criar uma função para tocar o audio (PlayAudio - AudioClip clip)
    - audioSource.clip = clip // auditoSource.Play();
   - Criar um vínculo com os métodos de vitória, morte, itens coletados
  
