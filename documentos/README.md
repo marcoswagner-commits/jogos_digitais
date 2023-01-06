@@ -4,7 +4,7 @@
 ## 1 - Apresentação da disciplina: Plano de Ensino – Conteúdos – Metodologia – Avaliações
 	* Vide Plano de Ensino; Planejamento da Disciplina; documento Conteúdos
 
-- [Plano de Ensino](https://github.com/marcoswagner-commits/jogos_digitais/files/8312251/plano_ensino_CJD_2021_2.pdf)
+- [Plano de Ensino](https://github.com/marcoswagner-commits/jogos_digitais/files/8312251/plano_ensino_CJD_2022_2.pdf)
 
 ### 1.1 Conteúdos
 
