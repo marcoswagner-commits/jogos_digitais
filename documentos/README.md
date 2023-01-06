@@ -112,35 +112,32 @@ Passos:
 - [Trabalho2 - Apresentação do Projeto Final]()
 
 ### Aulas
-- Roteiro específico da Aula Inaugural  - 22/03/2022 * (Apresentação do Planejamento - Plano de Ensino - Metodologias) *
-- [Roteiro específico da Aula Inaugural  - 24/03/2022 - Histórico de Jogos](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aulaA00.md) 
-- [Roteiro específico da Aula01 - 29/03/2022 - Roteiro de Jogos](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aulaA01.md)
-- [Roteiro específico da Aula02 - 31/03/2022 - Game Engine Unity3D](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula02.md)
-- [Roteiro específico da Aula03 - 05/04/2022 - Projeto de Jogos - Parte 1](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aulaA03.md)
-- [Roteiro específico da Aula04 - 07/04/2022 - Instalação e Ambiente - Unity3D](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula04.md)
-- [Roteiro específico da Aula05 - 12/04/2022 - Projeto de Jogos - Parte 2](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aulaA03.md)
-- [Roteiro específico da Aula06 - 14/04/2022 - Programação - Unity3D](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula06.md)
-- [Roteiro específico da Aula07 - 19/04/2022 - Funções de um Projetista](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aulaA04.md)
-- [Roteiro específico da Aula08 - 26/04/2022 - Criatividade ](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aulaA05.md)
-- [Roteiro específico da Aula09 - 28/04/2022 - Movimentos  - Unity3D](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula11.md)
-- [Roteiro específico da Aula10 - 03/05/2022 - Átomos do Jogo](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aulaA06.md)
-- [Roteiro específico da Aula11 - 05/05/2022 - Câmera - Início do Projeto - Unity3D](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula15.md)
-- [Roteiro específico da Aula12 - 10/05/2022 - Percepções e Emoções do Jogador](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aulaA07.md)
-- [Roteiro específico da Aula13 - 12/05/2022 - Interação - Projeto - Unity3D](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula17a.md)
-- [Roteiro específico da Aula14 - 17/05/2022 - Desenvolvimento Roteiro](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aulaA08.md)
-
-- Roteiro específico da Aula15 de Apresentação de Trabalho  - 19/05/2022 * (Avaliação do Roteiro) *
-- [Roteiro específico da Aula16 - 26/05/2022 - Interface com o Usuário - Projeto - Unity3D](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula17b.md)
-- [Roteiro específico da Aula17 - 02/06/2022 - Animação - Projeto - Unity3D](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula19.md)
-- [Roteiro específico da Aula18 - 07/06/2022 - Desafios para Jogador](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aulaA09.md)
-- [Roteiro específico da Aula19 - 09/06/2022 - Inimigos e NavMesh - Projeto - Unity3D](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula22a.md)
-- [Roteiro específico da Aula20 - 14/06/2022 - NPCs e Personagens](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aulaA10.md)
-- [Roteiro específico da Aula21 - 21/06/2022 - Gerenciamento de Inventário](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aulaA11.md)
-- [Roteiro específico da Aula22 - 23/06/2022 - Audios - Projeto - Unity3D](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula22b.md)
-- [Roteiro específico da Aula23 - 28/06/2022 - Desenvolvimento Jogo](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aulaA12.md)
-- [Roteiro específico da Aula24 - 30/06/2022 - Incrementos no Jogo e Build - Conclusão do Projeto - Unity3D](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula22c.md)
-
-- Roteiro específico da Aula de Apresentação Final - 05 e 07/07/2022 * (Avaliação do Roteiro e do Jogo) 
-
-
-
+- Roteiro específico da Aula Inaugural  - 17/01/2023 * (Apresentação do Planejamento - Plano de Ensino - Metodologias) *
+- [Roteiro específico da Aula Inaugural  - 19/01/2023 - Histórico de Jogos](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aulaA00.md) 
+- [Roteiro específico da Aula - 24/01/2023 - Roteiro de Jogos](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aulaA01.md)
+- [Roteiro específico da Aula - 26/01/2023 - Game Engine Unity3D](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula02.md)
+- [Roteiro específico da Aula - 31/01/2023 - Projeto de Jogos - Parte 1](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aulaA03.md)
+- [Roteiro específico da Aula - 02/02/2023 - Instalação e Ambiente - Unity3D](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula04.md)
+- [Roteiro específico da Aula - 07/02/2023 - Projeto de Jogos - Parte 2](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aulaA03.md)
+- [Roteiro específico da Aula - 10,16,23/02/2023 e 02/03/2023 - Programação - Unity3D](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula06.md)
+- [Roteiro específico da Aula - 14/02/2023 - Funções de um Projetista](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aulaA04.md)
+- 21/02/2023 * (FERIADO CARNAVAL) *
+- [Roteiro específico da Aula - 28/02/2023 - Criatividade ](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aulaA05.md)
+- [Roteiro específico da Aula - 28/02/2023 - Átomos do Jogo](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aulaA06.md)
+- [Roteiro específico da Aula - 07/03/2023 - Percepções e Emoções do Jogador](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aulaA07.md)
+- [Roteiro específico da Aula - 09,16/03/2023 - Movimentos  - Unity3D](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula11.md)
+- [Roteiro específico da Aula - 14/03/2023 - Desafios para Jogador](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aulaA09.md)
+- Roteiro específico da Aula de Apresentação de Trabalho  - 21, 23/03/2023 * (Avaliação do Roteiro) *
+- [Roteiro específico da Aula - 28/03/2023 - NPCs e Personagens](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aulaA10.md)
+- [Roteiro específico da Aula - 30/03/2023 - Câmera - Início do Projeto - Unity3D](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula15.md)
+- [Roteiro específico da Aula - 04/04/2023 - Interface com o Usuário - Diretrizes]
+- [Roteiro específico da Aula - 06/04/2023 - Interação - Projeto - Unity3D](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula17a.md)
+- [Roteiro específico da Aula - 06/04/2023 - Interface com o Usuário - Projeto - Unity3D](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula17b.md)
+- [Roteiro específico da Aula - 11/04/2023 - Gerenciamento de Inventário](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aulaA11.md)
+- [Roteiro específico da Aula - 13/04/2023 - Animação - Projeto - Unity3D](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula19.md)
+- Roteiro específico da Aula de Desenvolvimento do Projeto  - 18/04/2023 * (Desenvolvimento Projeto) *
+- [Roteiro específico da Aula - 20/04/2023 - Inimigos e NavMesh - Projeto - Unity3D](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula22a.md)
+- [Roteiro específico da Aula - 20/04/2023 - Audios - Projeto - Unity3D](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula22b.md)
+- [Roteiro específico da Aula- 20/04/2023 - Incrementos no Jogo e Build - Conclusão do Projeto - Unity3D](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula22c.md)
+- 25/05/2023 * (FEIRA DAS PROFISSÕES) *
+- Roteiro específico da Aula de Apresentação Final - 02,04/05/2023 * (Avaliação do Roteiro e do Jogo) 
