@@ -1,4 +1,4 @@
-# Disciplina Criação de Jogos Digitais - Roteiro - 2021/2 (2022)
+# Disciplina Criação de Jogos Digitais - Roteiro - 2022/2 (2022)
 ## Professores: Ana Carolina e Marcos Wagner
 
 ## 1 - Apresentação da disciplina: Plano de Ensino – Conteúdos – Metodologia – Avaliações
