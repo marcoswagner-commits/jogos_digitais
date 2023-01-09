@@ -127,7 +127,7 @@ Passos:
 - [Roteiro específico da Aula - 07/03/2023 - Percepções e Emoções do Jogador](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aulaA07.md)
 - [Roteiro específico da Aula - 09,16/03/2023 - Movimentos  - Unity3D](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula11.md)
 - [Roteiro específico da Aula - 14/03/2023 - Desafios para Jogador](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aulaA09.md)
-- Roteiro específico da Aula de Apresentação de Trabalho  - 21, 23/03/2023 * (Avaliação do Roteiro) *
+- Apresentação de Trabalho  - 21, 23/03/2023 * (Avaliação do Roteiro) *
 - [Roteiro específico da Aula - 28/03/2023 - NPCs e Personagens](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aulaA10.md)
 - [Roteiro específico da Aula - 30/03/2023 - Câmera - Início do Projeto - Unity3D](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula15.md)
 - [Roteiro específico da Aula - 04/04/2023 - Interface com o Usuário - Diretrizes]
@@ -140,4 +140,4 @@ Passos:
 - [Roteiro específico da Aula - 20/04/2023 - Audios - Projeto - Unity3D](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula22b.md)
 - [Roteiro específico da Aula- 20/04/2023 - Incrementos no Jogo e Build - Conclusão do Projeto - Unity3D](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula22c.md)
 - 25/05/2023 * (FEIRA DAS PROFISSÕES) *
-- Roteiro específico da Aula de Apresentação Final - 02,04/05/2023 * (Avaliação do Roteiro e do Jogo) 
+- Apresentação Final - 02,04/05/2023 * (Avaliação do Roteiro e do Jogo) 
