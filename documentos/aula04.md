@@ -59,9 +59,6 @@ O curso terá a seguinte estrutura:
  - Exemplo com o "Polvo"
  - Exemplo com o "Planeta"
 
-🎬
-[![material complementar](https://github.com/marcoswagner-commits/projetos_cg/blob/aa3f6a6ace359cfac3b5b9f9758fb9c642fe950b/Capa_Aula_Unity3D.png)](https://www.youtube.com/watch?v=lpSgS96B50k)
-
 [POLVO.zip](https://github.com/marcoswagner-commits/jogos_digitais/files/8410350/POLVO.zip)
 
 ![Captura de Tela 2022-04-08 às 10 34 33](https://user-images.githubusercontent.com/81576640/162446893-2d0e7fb2-27cb-4632-98d1-1312e87e48d6.png)
