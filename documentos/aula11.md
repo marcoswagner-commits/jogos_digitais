@@ -57,3 +57,64 @@ public class Jogador : MonoBehaviour
     }
 }
  ```
+ 
+ ### Outra abordagem para movimentos
+ 
+```
+public class Jogador : MonoBehaviour
+{
+
+    public CharacterController controller;
+    public Animator animator;
+
+    public float speed = 1;
+    public float gravity = 20;
+
+    public float rotSpeed = 200;
+
+    private float rot;
+
+    private Vector3 dir;
+    // Start is called before the first frame update
+    void Start()
+    {
+        // controller = GetComponent<CharacterController>();
+        // animator = GetComponent<Animator>();
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        Move();
+    }
+
+    void Move() 
+    {
+      
+      if (controller.isGrounded) 
+      {
+        if (Input.GetKey(KeyCode.X)) 
+        {
+          dir = Vector3.forward * speed;
+          animator.SetBool("walk",true);
+
+        }
+        if (Input.GetKeyUp(KeyCode.X)) 
+        {
+          dir = Vector3.zero;
+          animator.SetBool("walk",false);
+        }
+      }
+        dir.y -= gravity * Time.deltaTime;
+
+        rot += Input.GetAxis("Horizontal") * rotSpeed * Time.deltaTime;
+        transform.eulerAngles = new Vector3(0,rot,0);
+
+        dir = transform.TransformDirection(dir);
+
+        controller.Move(dir * Time.deltaTime);
+      
+    }
+}
+```
+ 
