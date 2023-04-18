@@ -139,5 +139,5 @@ Passos:
 - [Roteiro específico da Aula - 20/04/2023 - Inimigos e NavMesh - Projeto - Unity3D](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula22a.md)
 - [Roteiro específico da Aula - 20/04/2023 - Audios - Projeto - Unity3D](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula22b.md)
 - [Roteiro específico da Aula- 20/04/2023 - Incrementos no Jogo e Build - Conclusão do Projeto - Unity3D](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/aula22c.md)
-- 25/05/2023 * (FEIRA DAS PROFISSÕES) *
+- 25/04/2023 * (DESENVOLVIMENTO DO JOGO) *
 - Apresentação Final - 02,04/05/2023 * (Avaliação do Roteiro e do Jogo) 
